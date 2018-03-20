@@ -1,4 +1,4 @@
-# IMDb Website Redesign - Desktop Version - InVision Prototype
+# IMDb Website Redesign - Mobile Version - InVision Prototype
 
 ## Redesign Goals:
 
