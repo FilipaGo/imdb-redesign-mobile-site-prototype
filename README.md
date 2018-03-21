@@ -6,7 +6,7 @@
 </p>
 <br></br>
 
-https://filipago.github.io/imdb-redesign-mobile-site-prototype/
+👉 https://filipago.github.io/imdb-redesign-mobile-site-prototype/
 
 ## Redesign Goals:
 
