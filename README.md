@@ -22,3 +22,7 @@ New designs were developed for the **homepage**, **search**, **movie page** and 
 * Enter Homepage
 * Scroll to “Popular this Week” section and click to see “Tetro” movie page;
 * After entering the movie page, click on the tab “Cast & Crew” to see “Alden Ehrenreich” celebrity page.
+
+***
+
+You can find the [Desktop Version here](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype)
