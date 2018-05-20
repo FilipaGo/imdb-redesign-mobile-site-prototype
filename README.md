@@ -42,7 +42,7 @@ Beyond the website, it’s identity is dated and suggests some stagnation and la
 
 With a new identity and Website, IMDb can reaffirm itself as a credible and comprehensive online source, but also as a reliable and competent repository, capable of helping it’s users search for information on movies, tv shows and people (celebrities), and suggesting them relevant content.
 
-** Main Goals: **
+** Main Goals: ** __Main Goals:__
 
 * Enhance the website's usability and navigation capabilities;
 * Reaffirm the website as a permanently updated reference for movies;
