@@ -34,7 +34,6 @@ IMDb’s website design hasn’t changed much over the years, which is noticeabl
 <img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_wayback.jpg" width="1000" />
 </p>
 <p style="color:#6a737d; font-size:14px;">*Left to right: IMDb Website in the early 90's, in 2002 and 2016.*</p>
-*Left to right: IMDb Website in the early 90's, in 2002 and 2016.*
 <br></br>
 
 Beyond the website, it’s identity is dated and suggests some stagnation and lack of dynamics, despite the website's very active community.
