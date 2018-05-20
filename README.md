@@ -33,7 +33,7 @@ IMDb’s website design hasn’t changed much over the years, which is noticeabl
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_wayback.jpg" width="1000" />
 </p>
-*Left to right: IMDb Website in the early 90's, in 2002 and 2016.*
+*Left to right: IMDb Website in the early 90's, in 2002 and 2016.* _underscores_
 <br></br>
 
 Beyond the website, it’s identity is dated and suggests some stagnation and lack of dynamics, despite the website's very active community.
@@ -42,7 +42,7 @@ Beyond the website, it’s identity is dated and suggests some stagnation and la
 
 With a new identity and Website, IMDb can reaffirm itself as a credible and comprehensive online source, but also as a reliable and competent repository, capable of helping it’s users search for information on movies, tv shows and people (celebrities), and suggesting them relevant content.
 
-** Main Goals: ** __Main Goals:__
+__Main Goals:__
 
 * Enhance the website's usability and navigation capabilities;
 * Reaffirm the website as a permanently updated reference for movies;
