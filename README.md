@@ -15,7 +15,7 @@
 * After entering the movie page, click on the tab “Cast & Crew” and select “Alden Ehrenreich” to see celebrity page.
 <br></br>
 ***
-<br></br>
+
 ## Project Context:
 
 IMDb was first built in 1990, as a hobby, by a group of international tv and movies aficionados. Currently, it is the world's most popular and comprehensive internet source for finding information on movies, TV shows and celebrity related content.
