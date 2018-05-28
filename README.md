@@ -8,7 +8,7 @@
 
 ## Project Summary
 
-Project developed under the Postgraduate Diploma in Digital Experience Design which consisted in redesigning IMDb’ website, for desktop and mobile, in order to enhance the website's usability and navigation capabilities, reinvent the Company’s brand and increase the number of registered users and active participants.
+Project developed under the Postgraduate Diploma in Digital Experience Design which consisted in redesigning IMDb’s website, for desktop and mobile, in order to enhance the website's usability and navigation capabilities, reinvent the Company’s brand and increase the number of registered users and active participants.
 
 In order to redesign the navigation, search, homepage, movie page and celebrity page, I mapped out the following strategy:
 
@@ -16,6 +16,8 @@ In order to redesign the navigation, search, homepage, movie page and celebrity 
 * Interaction Design (User Flows, Documenting the current website’s Information Architecture and Content Inventory – as-is analysis –, new Information Architecture, Wireframes);
 * Rebranding;
 * User Interface Design (Mockups Design and non-functional Prototype).
+<br></br>
+***
 
 👉 Redesigned Mobile Version https://filipago.github.io/imdb-redesign-mobile-site-prototype/
 
