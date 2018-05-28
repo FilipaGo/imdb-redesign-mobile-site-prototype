@@ -2,8 +2,8 @@
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_redesign.jpg" width="1000" />
-IMDb's Homepage Redesign (mobile and desktop)
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_redesign-margin.jpg" width="1000" />
+Homepage Redesign (mobile and desktop)
 </p>
 <br></br>
 
@@ -56,7 +56,7 @@ IMDb’s website design hasn’t changed much over the years, which is noticeabl
 <br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_wayback.jpg" width="1000" />
-Left to right: IMDb Website in the early 90's, in 2002 and 2016.
+Left to right: IMDb's Website in the early 90's, in 2002 and 2016.
 </p>
 <br></br>
 
