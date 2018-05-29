@@ -109,7 +109,7 @@ The Movie DB Benchmarking Detail.
 </p>
 <br></br>
 
-I carried on with a SWOT Analysis of IMDB’s website and concluded that its major strength is the richness and diversity of the information it provides, the most notable weakness is the complexity of the site’s navigation, the best opportunity is offering a direct access to shopping movies and tv series through Amazon’s website (IMDb was acquired as an Amazon subsidiary private company in 1998), directly from IMDb and its biggest threat is the emergence of competing databases with increased functionality and more easily accessible via mobile devices;
+I carried on with a SWOT Analysis of IMDB’s website and concluded that its major strength is the richness and diversity of the information it provides, the most notable weakness is the complexity of the site’s navigation, the best opportunity is offering a direct access to shopping movies and tv series through Amazon’s website (IMDb was acquired as an Amazon subsidiary private company in 1998), directly from IMDb and its biggest threat is the emergence of competing databases with increased functionality and more easily accessible via mobile devices.
 
 <br></br>
 <p align="center">
