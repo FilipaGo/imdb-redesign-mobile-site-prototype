@@ -2,7 +2,7 @@
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_redesign-margin.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_redesign.jpg" width="1000" />
 Homepage Redesign (mobile and desktop)
 </p>
 <br></br>
@@ -11,7 +11,7 @@ Homepage Redesign (mobile and desktop)
 
 Project developed under the Postgraduate Diploma in Digital Experience Design which consisted in redesigning IMDb’s website, for desktop and mobile, in order to enhance the website's usability and navigation capabilities, reinvent the Company’s brand and increase the number of registered users and active participants.
 
-In order to redesign the navigation, search, homepage, movie page and celebrity page, I mapped out the following strategy:
+To redesign the navigation, search, homepage, movie page and celebrity page, I mapped out the following strategy:
 
 * Research (Benchmarking Analysis, SWOT Analysis, Proto-personas);
 * Interaction Design (User Flows, Documenting the current website’s Information Architecture and Content Inventory – as-is analysis –, new Information Architecture, Wireframes);
