@@ -73,6 +73,13 @@ __Main Goals:__
 * Reinvent the Company’s brand, making it more dynamic and current;
 * Increase the number of registered users and active participants.
 
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_screenshots-2016.jpg" width="1000" />
+IMDb's original Website in 2016. Left to right: Homepage, Movie Page and Celebrity Page.
+</p>
+<br></br>
+
 Due to the extension of the website, only a few page typologies were redesigned. New designs were developed for the **homepage**, **search**, **movie page** and **celebrity page**, with two variations: [Desktop]( https://filipago.github.io/imdb-redesign-desktop-site-prototype/) and [Mobile]( https://filipago.github.io/imdb-redesign-mobile-site-prototype)
 
 ### Methodology
