@@ -46,7 +46,7 @@ IMDb was first built in 1990, as a hobby, by a group of international tv and mov
 
 According to Alexa, in October 2016, IMDb was the 57th most visited website in the world and number 1 movie website, with a combined web and mobile audience of more than 240 million unique monthly visitors.
 
-With a searchable database of more than 250 million items including about 4 million movies, TV and entertainment programs, 8 million cast and crew members and almost 70 million registered users, consumers rely on the information IMDb provides to check local movie showtimes, trailers, reviews by both critics and other users, personalized recommendations, photo galleries, news and so much more, using it to decide what to watch and where to watch it.
+With a searchable database of more than 250 million items including about 4 million movies, TV and entertainment programs, 7.5 million cast and crew members and almost 67 million registered users, consumers rely on the information IMDb provides to check local movie showtimes, trailers, reviews by both critics and other users, personalized recommendations, photo galleries, news and so much more, using it to decide what to watch and where to watch it.
 
 IMDb is the largest movie and TV fan community where registered users can submit new website content, ask for existing content revisions, rate movies, tv series and episodes, post reviews, gather in topic related discussion forums and create and manage personal lists.
 
