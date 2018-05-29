@@ -76,7 +76,7 @@ __Main Goals:__
 <br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_screenshots-2016.jpg" width="1000" />
-IMDb's original Website in 2016. Left to right: Homepage, Movie Page and Celebrity Page.
+IMDb's original Website in late 2016. Left to right: Homepage, Movie Page and Celebrity Page.
 </p>
 <br></br>
 
@@ -84,7 +84,43 @@ Due to the extension of the website, only a few page typologies were redesigned.
 
 ### Methodology
 
-Coming soon! 🚧
+#### Research
+
+I jump started this project by conducting a benchmarking analysis on 3 competitors’ websites:
+* Rotten Tomatoes
+* Metacritic
+* The Movie DB
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_benchmarking01.jpg" width="1000" />
+Benchmarking Analysis Table.
+</p>
+<br></br>
+
+Looking at the competition, it was clear that even though IMDb was by far the most comprehensive movie database, it had to step up its game in terms of clearness, usability and polish.
+
+All three competitor websites were easier to navigate, more organized and cleaner, specially The Movie DB, which is a great example of a website that has a lot of content, but doesn’t really distract the user from its goal, as the main navigation is quite simple and the content related to what the user is seeing can be accessed through body links that appear contextually. Not only does this enable a more fluid and effective navigation but it also increases the number of page views per user, which ultimately benefits the website’s owners.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_benchmarking02.jpg" width="1000" />
+The Movie DB Benchmarking Detail.
+</p>
+<br></br>
+
+I carried on with a SWOT Analysis of IMDB’s website and concluded that its major strength is the richness and diversity of the information it provides, the most notable weakness is the complexity of the site’s navigation, the best opportunity is offering a direct access to shopping movies and tv series through Amazon’s website (IMDb was acquired as an Amazon subsidiary private company in 1998), directly from IMDb and its biggest threat is the emergence of competing databases with increased functionality and more easily accessible via mobile devices;
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_swot.jpg" width="1000" />
+The Movie DB Benchmarking Detail.
+</p>
+<br></br>
+
+#### Interaction Design
+
+More on IMDb's redesign coming soon! 🚧
 
 ***
 
@@ -109,5 +145,3 @@ If you didn't check the prototypes yet, here they are (there's no need to scroll
 * Login;
 * After entering the Homepage as a registered user, scroll down to “Popular this Week” section and click to see the “Tetro” movie page;
 * After entering the movie page, click on the tab “Cast & Crew” and select “Alden Ehrenreich” to check out the celebrity page.
-
-Thank you for your time 😊
