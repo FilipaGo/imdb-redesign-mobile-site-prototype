@@ -73,6 +73,7 @@ __Main Goals:__
 * Reinvent the Company’s brand, making it more dynamic and current;
 * Increase the number of registered users and active participants.
 
+<br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_screenshots-2016.jpg" width="1000" />
 IMDb's original Website in 2016. Left to right: Homepage, Movie Page and Celebrity Page.
