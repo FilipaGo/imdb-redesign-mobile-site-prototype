@@ -138,7 +138,7 @@ The 3 proto-personas that seemed to fit my research, helped me develop a sense o
 <br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_personas.jpg" width="1000" />
-Proto-personas. Larger images can be found <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/tree/master/_images_readme/personas_userflows">here</a>.</p>
+Proto-personas. Larger images can be found <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/tree/master/_images_readme/personas_userflows" >here</a>.</p>
 <br></br>
 
 #### Interaction Design
