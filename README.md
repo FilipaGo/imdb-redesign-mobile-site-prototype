@@ -109,12 +109,36 @@ The Movie DB Benchmarking Detail.
 </p>
 <br></br>
 
-I carried on with a SWOT Analysis of IMDB’s website and came to the conclusion that its major **strength** is the richness and diversity of the information it provides, the most notable **weakness** is the complexity of the site’s navigation, the best **opportunity** is offering worldwide access to shopping movies and tv series through Amazon’s website directly from IMDb (IMDb was acquired as an Amazon subsidiary private company in 1998), and its biggest **threat** is the emergence of competing databases with increased functionality and more easily accessible via mobile devices.
+I carried on with a SWOT Analysis on IMDB’s website and came to the conclusion that its major **strength** is the richness and diversity of the information it provides, the most notable **weakness** is the complexity of the site’s navigation, the best **opportunity** is offering worldwide access to shopping movies and tv series through Amazon’s website directly from IMDb (IMDb was acquired as an Amazon subsidiary private company in 1998), and its biggest **threat** is the emergence of competing databases with increased functionality and more easily accessible via mobile devices.
 
 <br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_swot.jpg" width="1000" />
-The Movie DB Benchmarking Detail.
+IMDb SWOT Analysis.
+</p>
+<br></br>
+
+IMDb’s users can be quite diverse. With over 240 million unique monthly visitors, IMDb serves both hardcore movie buffs and casual users, who drop by intentionally (direct URL, social media…) or through a Google search, while looking for information on a movie/tv related topic.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/google_search.jpg" width="1000" />
+Search results from Google.
+</p>
+<br></br>
+
+In fact, if you run a Google search on a movie, tv show, actor, director or anything movie/tv related, chances are you will see IMDb consistently popping in the top 3 search results.
+
+So… who are these people? 🤔
+
+Due to time constraints my user research was mostly done online and talking with some friends.
+
+The 3 proto-personas that seemed to fit my research, helped me develop a sense of empathy for the users and allowed me to think about which actions people might want to take most urgently so I could later provide them the most relevant content first.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_personas.jpg" width="1000" />
+Proto-personas. Larger images can be found [here](https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/tree/master/_images_readme/personas_userflows).
 </p>
 <br></br>
 
