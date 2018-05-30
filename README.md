@@ -141,6 +141,8 @@ The 3 proto-personas that seemed to fit my research, helped me develop a sense o
 Proto-personas. Larger images can be found <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/tree/master/_images_readme/personas_userflows" >here</a>.</p>
 <br></br>
 
+Through this process, I was able to identify IMDb’s main target-audience: individuals who love the movies, like to watch trailers and keep up with the latest premieres and news.
+
 #### Interaction Design
 
 More on IMDb's redesign coming soon! 🚧
