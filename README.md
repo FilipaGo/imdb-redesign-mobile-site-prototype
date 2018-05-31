@@ -202,7 +202,7 @@ The main navigation was built upon my user research and perception of what most 
 <br></br>
 <p align="center">
 <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_balsamic-wireframes01.jpg" width="1000" />
-IMDb's Wireframes</p>
+IMDb's Wireframes.</p>
 <br></br>
 
 Based on the premises of having relevant information first and an easy navigation, I started sketching and designing the website’s wireframes.
@@ -212,7 +212,7 @@ With my previous research in mind and the content inventory, I tried to design f
 <br></br>
 <p align="center">
 <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_balsamic-wireframes02.jpg" width="1000" />
-IMDb's Wireframes. From left to right: Homepage, Movie Page, Celebrity Page. You can <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/tree/master/_images_readme/wireframes" >check the larger images here</a></p>
+IMDb's Wireframes. From left to right: Homepage, Movie Page, Celebrity Page. You can <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/tree/master/_images_readme/wireframes" >check the larger images here</a>.</p>
 <br></br>
 
 IMDb is a content-heavy, exceedingly detailed website, but it didn’t seem right to just start cutting things off. As I said before, IMDb has a large and very diverse audience, from casual users to hardcore movie lovers, so what may not appeal to some, might be a treasure to others.
@@ -229,7 +229,7 @@ I bared the design to content blocks, grouped the pages' contents by themes and 
 My content blocks for the Movie Page… You can <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/tree/master/_images_readme/wireframes/content_blocks" >check the larger images here</a></p>
 <br></br>
 
-When designing a webpage with so many information and details, the user can easily feel lost; it was imperative to establish a clear hierarchy of information so that just by scanning the page, people could get a clear idea of what they could find and read about.
+When designing a webpage with so much information and details, the user can easily feel lost; it was imperative to establish a clear hierarchy of information so that just by scanning the page, people could get a clear idea of what they could find and read about.
 
 <br></br>
 <p align="center">
