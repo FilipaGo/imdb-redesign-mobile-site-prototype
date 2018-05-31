@@ -14,7 +14,7 @@ Project developed under the Postgraduate Diploma in Digital Experience Design wh
 To redesign the navigation, search, homepage, movie page and celebrity page, I mapped out the following strategy:
 
 * Research (Benchmarking Analysis, SWOT Analysis, Proto-personas);
-* Interaction Design (Content Inventory and Documenting the current website’s Information Architecture – as-is analysis –, User Flows, new Information Architecture, Wireframes);
+* Interaction Design (Content Inventory and Documenting the current website’s Information Architecture [as-is analysis], User Flows, new Information Architecture, Wireframes);
 * Rebranding;
 * User Interface Design (Mockups Design and non-functional Prototype).
 <br></br>
