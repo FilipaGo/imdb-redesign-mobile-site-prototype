@@ -145,6 +145,60 @@ Through this process, I was able to identify IMDb’s main target-audience: indi
 
 #### Interaction Design
 
+Following the research phase, I did an overall Content Inventory using IMDb’s Site Index, that could later help me redesign the whole site’s Information Architecture and main navigation, as well as prioritize content.
+
+Documenting every little content detail on the Homepage, Movie Page and Celebrity Page was a heavy task!
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_content-inventory.jpg" width="1000" />
+IMDb's Content Inventory 😅. If you want to check the details, <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_docs_readme/imdb_content-inventory.xlsx" >download the file here</a>.</p>
+<br></br>
+
+Documenting the current website’s information architecture confirmed that the way the main navigation was organized didn’t look fitting as it combined options on the top level menu that didn’t seem to relate very well.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_info-architecture_old.jpg" width="1000" />
+IMDb's original Information Architecture. To check the whole document, <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_docs_readme/info-architecture_old.pdf" >download the pdf file here</a>.</p>
+<br></br>
+
+I refined the demographic and behavioral proto-personas’ characters and went on creating user flows.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_userflows.jpg" width="1000" />
+User Flows. Larger images can be found <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/tree/master/_images_readme/personas_userflows" >here</a>.</p>
+<br></br>
+
+Looking at the original Information Architecture I noticed that grouping together very large subjects into a single menu option raised the number of second-level options, increasing the navigation’s complexity.
+
+To solve this issue, the new information architecture separates “movies” from “tv shows” and “community” from “news”, as these are very different subjects. I also created a top-level menu option just for “celebrities”.
+
+I chose to name the “news” menu entry “news and events”, placing the “events” that were grouped with “celebrities” together with the “news”. It just seemed more fittings as contents published under “events” are usually news about awards’ ceremonies and film festivals.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_info-architecture_new01.jpg" width="1000" />
+To move things around with ease and iterate faster, I decided to first use a spreadsheet to design IMDb's new Information Architecture. You can <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_docs_readme/info-architecture_new.xlsx" >download the file here</a> if you're curious.</p>
+<br></br>
+
+<br></br>
+<p align="center">
+<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_info-architecture_new02.jpg" width="1000" />
+IMDb's new Information Architecture detail. <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_docs_readme/info-architecture_new.xlsx" >Download the pdf file here</a> to check the whole tree.</p>
+<br></br>
+
+By adjusting the top level menu, I was able to redesign a more consistent and simple main navigation, substantially reducing the complexity of the unfolded menu.
+
+<br></br>
+<p align="center">
+<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_info-architecture_nav.jpg" width="1000" />
+IMDb's new Main Navigation. Makes more sense, right?</p>
+<br></br>
+
+The main navigation was built upon my user research and perception of what most people might look for at IMDb’s website, as I wasn’t given access to any analytical data that could allow me to effectively know which menu options are most clicked and which contents are most sought after.
+
 More on IMDb's redesign coming soon! 🚧
 
 ***
