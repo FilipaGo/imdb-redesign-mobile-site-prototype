@@ -14,7 +14,7 @@ Project developed under the Postgraduate Diploma in Digital Experience Design wh
 To redesign the navigation, search, homepage, movie page and celebrity page, I mapped out the following strategy:
 
 * Research (Benchmarking Analysis, SWOT Analysis, Proto-personas);
-* Interaction Design (User Flows, Documenting the current website’s Information Architecture and Content Inventory – as-is analysis –, new Information Architecture, Wireframes);
+* Interaction Design (Content Inventory and Documenting the current website’s Information Architecture – as-is analysis –, User Flows, new Information Architecture, Wireframes);
 * Rebranding;
 * User Interface Design (Mockups Design and non-functional Prototype).
 <br></br>
@@ -155,7 +155,7 @@ Documenting every little content detail on the Homepage, Movie Page and Celebrit
 IMDb's Content Inventory 😅. If you want to check the details, <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_docs_readme/imdb_content-inventory.xlsx" >download the file here</a>.</p>
 <br></br>
 
-Documenting the current website’s information architecture confirmed that the way the main navigation was organized didn’t look fitting as it combined options on the top level menu that didn’t seem to relate very well.
+Documenting the current website’s information architecture confirmed that the way the main navigation was organized didn’t look fitting, as it combined options on the top level menu that didn’t seem to relate very well.
 
 <br></br>
 <p align="center">
@@ -198,6 +198,50 @@ IMDb's new Main Navigation. Makes more sense, right?</p>
 <br></br>
 
 The main navigation was built upon my user research and perception of what most people might look for at IMDb’s website, as I wasn’t given access to any analytical data that could allow me to effectively know which menu options are most clicked and which contents are most sought after.
+
+<br></br>
+<p align="center">
+<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_balsamic-wireframes01.jpg" width="1000" />
+IMDb's Wireframes</p>
+<br></br>
+
+Based on the premises of having relevant information first and an easy navigation, I started sketching and designing the website’s wireframes.
+
+With my previous research in mind and the content inventory, I tried to design for what most users are looking for, prioritizing information by placing attractive content first and bringing value to the overall experience. Or so I thought…
+
+<br></br>
+<p align="center">
+<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_balsamic-wireframes02.jpg" width="1000" />
+IMDb's Wireframes. From left to right: Homepage, Movie Page, Celebrity Page. You can <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/tree/master/_images_readme/wireframes" >check the larger images here</a></p>
+<br></br>
+
+IMDb is a content-heavy, exceedingly detailed website, but it didn’t seem right to just start cutting things off. As I said before, IMDb has a large and very diverse audience, from casual users to hardcore movie lovers, so what may not appeal to some, might be a treasure to others.
+
+As I didn’t want to strip the database off of its’ essence, which is the richness and depth of its’ contents, the first wireframes versions didn’t come out quite right. The movie and celebrity pages were excessively long, overloaded with information, which ultimately damaged usability and the overall experience, especially on mobile devices.
+
+Exposing every detail on the pages was creating a lot of clutter so I took a deep breath, a few steps back, and started working on a simplified version of the wireframes.
+
+I bared the design to content blocks, grouped the pages' contents by themes and designed a tabular sub-navigation that could ease the user’s experience by reducing the amount of information displayed on the page at the same time. 😌
+
+<br></br>
+<p align="center">
+<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_content-wireframes_movie-page.jpg" width="1000" />
+My content blocks for the Movie Page… You can <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/tree/master/_images_readme/wireframes/content_blocks" >check the larger images here</a></p>
+<br></br>
+
+When designing a webpage with so many information and details, the user can easily feel lost; it was imperative to establish a clear hierarchy of information so that just by scanning the page, people could get a clear idea of what they could find and read about.
+
+<br></br>
+<p align="center">
+<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_content-wireframes_people-page.jpg" width="1000" />
+My content blocks for the Celebrity Page…</p>
+<br></br>
+
+I placed the general information that seemed to appeal to a broader audience on the first tab (“Overview”), easily accessible in smaller, digestible parts, and hid the more detailed content on the other tabs, thus reducing the pages’ complexity and cognitive load.
+
+Giving people enough content to understand what’s available and provide further details upon their “request” turned out to be a better strategy.
+
+#### User Interface Design
 
 More on IMDb's redesign coming soon! 🚧
 
