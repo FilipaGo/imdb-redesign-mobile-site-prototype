@@ -251,6 +251,12 @@ IMDb's new color palette and fonts.</p>
 > A font with many voices.
 > Friendly without being folksy, confident without being aloof, Gotham's many moods run from hip to nostalgic to brash to eloquent.
 
+<br></br>
+<p align="center">
+<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_sketch-mockups.jpg" width="1000" />
+IMDb's Mockups.</p>
+<br></br>
+
 More on IMDb's redesign coming soon! 🚧
 
 ***
