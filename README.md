@@ -243,6 +243,12 @@ Giving people enough content to understand what’s available and provide furthe
 
 #### User Interface Design
 
+<br></br>
+<p align="center">
+<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_styles.jpg" width="1000" />
+IMDb's new color palette and fonts</p>
+<br></br>
+
 More on IMDb's redesign coming soon! 🚧
 
 ***
