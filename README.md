@@ -42,13 +42,13 @@ To redesign the navigation, search, homepage, movie page and celebrity page, I m
 
 ### Context
 
-IMDb was first built in 1990, as a hobby, by a group of international tv and movies aficionados. Currently, it is the world's most popular and comprehensive internet source for finding information on movies, TV shows and celebrity related content.
+IMDb was first built in 1990, as a hobby, by a group of international TV and movies aficionados. Currently, it is the world's most popular and comprehensive internet source for finding information on movies, TV shows and celebrity related content.
 
 According to Alexa, in October 2016, IMDb was the 57th most visited website in the world and number 1 movie website, with a combined web and mobile audience of more than 240 million unique monthly visitors.
 
 With a searchable database of more than 250 million items including about 4 million movies, TV and entertainment programs, 7.5 million cast and crew members and almost 67 million registered users, consumers rely on the information IMDb provides to check local movie showtimes, trailers, reviews by both critics and other users, personalized recommendations, photo galleries, news and so much more, using it to decide what to watch and where to watch it.
 
-IMDb is the largest movie and TV fan community where registered users can submit new website content, ask for existing content revisions, rate movies, tv series and episodes, post reviews, gather in topic related discussion forums and create and manage personal lists.
+IMDb is the largest movie and TV fan community where registered users can submit new website content, ask for existing content revisions, rate movies, TV series and episodes, post reviews, gather in topic related discussion forums and create and manage personal lists.
 
 ### Problem
 
@@ -64,7 +64,7 @@ Beyond the website, it’s identity is dated and suggests some stagnation and la
 
 ### Redesign Goals and Scope
 
-With a new identity and Website, IMDb can reaffirm itself as a credible and comprehensive online source, but also as a reliable and competent repository, capable of helping it’s users search for information on movies, tv shows and people (celebrities), and suggesting them relevant content.
+With a new identity and Website, IMDb can reaffirm itself as a credible and comprehensive online source, but also as a reliable and competent repository, capable of helping it’s users search for information on movies, TV shows and people (celebrities), and suggesting them relevant content.
 
 __Main Goals:__
 
@@ -109,7 +109,7 @@ The Movie DB Benchmarking Detail.
 </p>
 <br></br>
 
-I carried on with a SWOT Analysis on IMDB’s website and came to the conclusion that its major **strength** is the richness and diversity of the information it provides, the most notable **weakness** is the complexity of the site’s navigation, the best **opportunity** is offering worldwide access to shopping movies and tv series through Amazon’s website directly from IMDb (IMDb was acquired as an Amazon subsidiary private company in 1998), and its biggest **threat** is the emergence of competing databases with increased functionality and more easily accessible via mobile devices.
+I carried on with a SWOT Analysis on IMDB’s website and came to the conclusion that its major **strength** is the richness and diversity of the information it provides, the most notable **weakness** is the complexity of the site’s navigation, the best **opportunity** is offering worldwide access to shopping movies and TV series through Amazon’s website directly from IMDb (IMDb was acquired as an Amazon subsidiary private company in 1998), and its biggest **threat** is the emergence of competing databases with increased functionality and more easily accessible via mobile devices.
 
 <br></br>
 <p align="center">
@@ -118,7 +118,7 @@ IMDb SWOT Analysis.
 </p>
 <br></br>
 
-IMDb’s users can be quite diverse. With over 240 million unique monthly visitors, IMDb serves both hardcore movie buffs and casual users, who drop by intentionally (direct URL, social media…) or through a Google search, while looking for information on a movie/tv related topic.
+IMDb’s users can be quite diverse. With over 240 million unique monthly visitors, IMDb serves both movie buffs and casual users, who drop by intentionally (direct URL, social media…) or through a Google search, while looking for information on a movie/TV related topic.
 
 <br></br>
 <p align="center">
@@ -127,7 +127,7 @@ Search results from Google.
 </p>
 <br></br>
 
-In fact, if you run a Google search on a movie, tv show, actor, director or anything movie/tv related, chances are you will see IMDb consistently popping in the top 3 search results.
+In fact, if you run a Google search on a movie, TV show, actor, director or anything movie/TV related, chances are you will see IMDb consistently popping in the top 3 search results.
 
 So… who are these people? 🤔
 
@@ -155,7 +155,7 @@ Documenting every little content detail on the Homepage, Movie Page and Celebrit
 IMDb's Content Inventory 😅. If you want to check the details, <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_docs_readme/imdb_content-inventory.xlsx" >download the file here</a>.</p>
 <br></br>
 
-Documenting the current website’s information architecture confirmed that the way the main navigation was organized didn’t look fitting, as it combined options on the top level menu that didn’t seem to relate very well.
+Documenting the current website’s information architecture confirmed that the way the main navigation was organized didn’t seem adequate, as it combined options on the top level menu that didn’t relate very well.
 
 <br></br>
 <p align="center">
@@ -173,9 +173,9 @@ User Flows. Larger images can be found <a href="https://github.com/FilipaGo/imdb
 
 Looking at the original Information Architecture I noticed that grouping together very large subjects into a single menu option raised the number of second-level options, increasing the navigation’s complexity.
 
-To solve this issue, the new information architecture separates “movies” from “tv shows” and “community” from “news”, as these are very different subjects. I also created a top-level menu option just for “celebrities”.
+To solve this issue, the new information architecture separates “movies” from “TV shows” and “community” from “news”, as these are very different subjects. I also created a top-level menu option just for “celebrities”.
 
-I chose to name the “news” menu entry “news and events”, placing the “events” that were grouped with “celebrities” together with the “news”. It just seemed more fittings as contents published under “events” are usually news about awards’ ceremonies and film festivals.
+I chose to name the “news” menu entry “news and events”, placing the “events” that were grouped with “celebrities” together with the “news”. It just seemed more structured as contents published under “events” are usually news about awards’ ceremonies and film festivals.
 
 <br></br>
 <p align="center">
@@ -215,13 +215,13 @@ With my previous research in mind and the content inventory, I tried to design f
 IMDb's Wireframes. From left to right: Homepage, Movie Page, Celebrity Page. You can <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/tree/master/_images_readme/wireframes" >check the larger images here</a>.</p>
 <br></br>
 
-IMDb is a content-heavy, exceedingly detailed website, but it didn’t seem right to just start cutting things off. As I said before, IMDb has a large and very diverse audience, from casual users to hardcore movie lovers, so what may not appeal to some, might be a treasure to others.
+IMDb is a content-heavy, exceedingly detailed website, but it didn’t seem right to just start cutting things off. As I said before, IMDb has a large and very diverse audience, from casual users to movie lovers, so what may not appeal to some, might be a treasure to others.
 
-As I didn’t want to strip the database off of its’ essence, which is the richness and depth of its’ contents, the first wireframes versions didn’t come out quite right. The movie and celebrity pages were excessively long, overloaded with information, which ultimately damaged usability and the overall experience, especially on mobile devices.
+As I didn’t want to strip the database off its’ essence, which is the richness and depth of its’ contents, the first wireframes versions didn’t come out quite right. The movie and celebrity pages were excessively long, overloaded with information, which ultimately damaged usability and the overall experience, especially on mobile devices.
 
 Exposing every detail on the pages was creating a lot of clutter so I took a deep breath, a few steps back, and started working on a simplified version of the wireframes.
 
-I bared the design to content blocks, grouped the pages' contents by themes and designed a tabular sub-navigation that could ease the user’s experience by reducing the amount of information displayed on the page at the same time. 😌
+I bared the design to content blocks, grouped the pages' contents by themes and designed a tabular sub-navigation that could ease the user’s experience by reducing the amount of information displayed on the page. 😌
 
 <br></br>
 <p align="center">
@@ -257,7 +257,7 @@ IMDb's new color palette and fonts.</p>
 IMDb's Mockups.</p>
 <br></br>
 
-With this redesign I was looking to create more visually impactful and appealing pages, easy to use, and highlight engaging content.
+With this redesign I aimed to create more visually impactful and appealing pages, easy to use, and highlight engaging content.
 
 I kept the contents that are updated more frequently on the homepage, to stimulate and encourage frequent access and consultation by the users.
 
@@ -283,7 +283,7 @@ The login page is also more captivating, as the background image randomly change
 IMDb's Homepage after the user logs in. First level mobile menu and user's menu on desktop when clicked.</p>
 <br></br>
 
-All the registered users’ options were grouped in the utility nav. I also created a “discover” area which aims to present curated contents to registered users (movies and tv shows) based upon their preferences, ratings, watchlist and check-ins.
+All the registered users’ options were grouped in the utility nav. I also created a “discover” area which aims to present curated contents to registered users (movies and TV shows) based upon their preferences, ratings, watchlist and check-ins.
 
 As searching is a major entry point while navigating IMDb’s website, I gave the search bar a prominent placement and displayed the field “in focus” on the homepage, so the user won’t have to click to begin searching. This behavior only happens on desktop, as loading a website with the keyboard open could be a bit odd, confusing the users.
 
@@ -295,7 +295,7 @@ IMDb's search modal.</p>
 
 When the user starts typing, the background is dimmed to avoid distractions, and the most relevant search results start being displayed.
 
-All search results present a colored label to enable a quick and easy scan (search results can belong to 1 of 4 categories: movies, tv, people or news).
+All search results present a colored label to enable a quick and easy scan (search results can belong to 1 of 4 categories: movies, TV, people or news).
 
 <br></br>
 <p align="center">
@@ -303,7 +303,7 @@ All search results present a colored label to enable a quick and easy scan (sear
 IMDb's Homepage detail. Hovering a movie unveils the film details.</p>
 <br></br>
 
-The homepage’s hero displays 6 highlighted trailers or news videos (like interviews or events) and its’ corresponding info. When the user presses play, all complementary info and controllers are hidden (reappearing on hover) and the background is dimmed to avoid distractions while the video is playing. Like turning the lights off in a movie theater!
+The homepage’s hero displays 6 highlighted trailers or news videos (like interviews or events) and its’ corresponding info. When the user presses play, all complementary info and controls are hidden (reappearing on hover) and the background is dimmed to avoid distractions while the video is playing. Like turning the lights off in a movie theater!
 
 The “Movies” section displays a slider with a list of all movies available to watch in theatres, on the current week and the following 5, according to the user’s ip address. There is also a quick link to showtimes.
 
@@ -319,7 +319,7 @@ The “Movies” section displays a slider with a list of all movies available t
  IMDb's Homepage news section.</p>
  <br></br>
 
- News and highlights were condensed in a masonry grid layout that enables the users to filter content by trending news (top) or topic related news (movies, tv, people and events)
+ News and highlights were condensed in a masonry grid layout that enables the users to filter content by trending news (top) or topic related news (movies, TV, people and events)
 
  <br></br>
  <p align="center">
@@ -327,7 +327,7 @@ The “Movies” section displays a slider with a list of all movies available t
  IMDb's Homepage "Popular this Week" section. Hovering an item unveils more detailed information.</p>
  <br></br>
 
- “Popular this Week” slider displays a weekly list of movies, tv shows and people that are trending on IMDb, as well as a list of the highest-grossing films in theatres.
+ “Popular this Week” slider displays a weekly list of movies, TV shows and people that are trending on IMDb, as well as a list of the highest-grossing films in theatres.
 
  <br></br>
  <p align="center">
@@ -345,7 +345,7 @@ The “Movies” section displays a slider with a list of all movies available t
 
  IMDbPro’s commercial subscription only appeals to a smaller audience of industry professionals. As such, it didn’t seem right to keep it in the header so I moved it down to the footer, alongside a small introductory text linking to the professional platform.
 
- To keep things interesting, the footer’s background image randomly changes, displaying a different movie or tv character on each load.
+ To keep things interesting, the footer’s background image randomly changes, displaying a different movie or TV character on each load.
 
  <br></br>
  <p align="center">
@@ -367,9 +367,9 @@ The “Movies” section displays a slider with a list of all movies available t
 
  In the Celebrity Page I deleted the “Known for” section where IMDb displays the films for which the actor is best known for and created a hero with a montage that showcases those films.
 
- With this project I aimed for an easy to use interactive experience, both for new and registered users, that allows them to hop by and easily grab the information they need, without slowing down the user’s flow.
+ With this project I aimed at an easy to use interactive experience, both for new and registered users, that allows them to hop by and easily grab the information they need, without slowing down the user’s flow.
 
- Even though IMDb is a content-heavy website, with lots of options, I tried to redesign it in a way so that most could be clear the first time people viewed the website.
+ Even though IMDb is a content-heavy website, with lots of options, I tried to redesign it in such a way that most could be clear the first time people viewed the website.
 
  Quality content and displaying it right was key!
 
