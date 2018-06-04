@@ -367,6 +367,12 @@ The “Movies” section displays a slider with a list of all movies available t
 
  In the Celebrity Page I deleted the “Known for” section where IMDb displays the films for which the actor is best known for and created a hero with a montage that showcases those films.
 
+ <br></br>
+ <p align="center">
+ <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_mockups.jpg" width="1000" />
+ IMDb Mockups. From left to right: Homepage, Movie Page, Celebrity Page. Check the prototypes for more details!</p>
+ <br></br>
+
  With this project I aimed at an easy to use interactive experience, both for new and registered users, that allows them to hop by and easily grab the information they need, without slowing down the user’s flow.
 
  Even though IMDb is a content-heavy website, with lots of options, I tried to redesign it in such a way that most could be clear the first time people viewed the website.
