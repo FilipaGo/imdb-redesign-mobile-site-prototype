@@ -257,7 +257,121 @@ IMDb's new color palette and fonts.</p>
 IMDb's Mockups.</p>
 <br></br>
 
-More on IMDb's redesign coming soon! 🚧
+With this redesign I was looking to create more visually impactful and appealing pages, easy to use, and highlight engaging content.
+
+I kept the contents that are updated more frequently on the homepage, to stimulate and encourage frequent access and consultation by the users.
+
+<br></br>
+<p align="center">
+<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_homepage-no-login01.jpg" width="1000" />
+IMDb's Homepage before the user logs in (detail).</p>
+<br></br>
+
+I separated the login from the registry, giving more prominence to the registry button, in order to boost the number of registered users.
+
+<br></br>
+<p align="center">
+<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_login.jpg" width="1000" />
+IMDb's Login Page.</p>
+<br></br>
+
+The login page is also more captivating, as the background image randomly changes on each load.
+
+<br></br>
+<p align="center">
+<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_homepage-login-utility-nav.jpg" width="1000" />
+IMDb's Homepage after the user logs in. First level mobile menu and user's menu on desktop when clicked.</p>
+<br></br>
+
+All the registered users’ options were grouped in the utility nav. I also created a “discover” area which aims to present curated contents to registered users (movies and tv shows) based upon their preferences, ratings, watchlist and check-ins.
+
+As searching is a major entry point while navigating IMDb’s website, I gave the search bar a prominent placement and displayed the field “in focus” on the homepage, so the user won’t have to click to begin searching. This behavior only happens on desktop, as loading a website with the keyboard open could be a bit odd, confusing the users.
+
+<br></br>
+<p align="center">
+<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_search.jpg" width="1000" />
+IMDb's search modal.</p>
+<br></br>
+
+When the user starts typing, the background is dimmed to avoid distractions, and the most relevant search results start being displayed.
+
+All search results present a colored label to enable a quick and easy scan (search results can belong to 1 of 4 categories: movies, tv, people or news).
+
+<br></br>
+<p align="center">
+<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_homepage-hero+movies.jpg" width="1000" />
+IMDb's Homepage detail. Hovering a movie unveils the film details.</p>
+<br></br>
+
+The homepage’s hero displays 6 highlighted trailers or news videos (like interviews or events) and its’ corresponding info. When the user presses play, all complementary info and controllers are hidden (reappearing on hover) and the background is dimmed to avoid distractions while the video is playing. Like turning the lights off in a movie theater!
+
+The “Movies” section displays a slider with a list of all movies available to watch in theatres, on the current week and the following 5, according to the user’s ip address. There is also a quick link to showtimes.
+
+ A second tab allows the users to check which films will premiere in their country each month.
+
+ On desktop, hovering each movie displays more detailed information like its’ name, director and leading actors.
+
+ Each film displayed can be added to the user’s watchlist and provides direct access to the movie’s schedules by location and movie theatre name.
+
+ <br></br>
+ <p align="center">
+ <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_homepage-news.jpg" width="1000" />
+ IMDb's Homepage news section.</p>
+ <br></br>
+
+ News and highlights were condensed in a masonry grid layout that enables the users to filter content by trending news (top) or topic related news (movies, tv, people and events)
+
+ <br></br>
+ <p align="center">
+ <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_homepage-popular.jpg" width="1000" />
+ IMDb's Homepage "Popular this Week" section. Hovering an item unveils more detailed information.</p>
+ <br></br>
+
+ “Popular this Week” slider displays a weekly list of movies, tv shows and people that are trending on IMDb, as well as a list of the highest-grossing films in theatres.
+
+ <br></br>
+ <p align="center">
+ <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_homepage-born.jpg" width="1000" />
+ IMDb's Homepage "Born Today" section. Hovering the user's photo on desktop, shows him a special birthday message.</p>
+ <br></br>
+
+ “Born Today” is a special treat to IMDb’s registered users, privately displaying the users’ photo alongside famous people on their birthday.
+
+ <br></br>
+ <p align="center">
+ <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_homepage-footer.jpg" width="1000" />
+ IMDb's Homepage Footer.</p>
+ <br></br>
+
+ IMDbPro’s commercial subscription only appeals to a smaller audience of industry professionals. As such, it didn’t seem right to keep it in the header so I moved it down to the footer, alongside a small introductory text linking to the professional platform.
+
+ To keep things interesting, the footer’s background image randomly changes, displaying a different movie or tv character on each load.
+
+ <br></br>
+ <p align="center">
+ <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_movie-page.jpg" width="1000" />
+ IMDb's Movie Page detail.</p>
+ <br></br>
+
+ I changed the hero in the Movie Page to display a trailer. The section behaves similarly to the one on the Homepage, but it also allows the users to access several streaming services, buy the DVD, Blu-ray and original soundtrack on Amazon, monetizing the website, and add the movie to their watchlist.
+
+ To boost the number of active participants I added a quick-edit floating action button to enable faster content editing and a leaderboard that displays top contributors who help keep IMDb up to date.
+
+ <br></br>
+ <p align="center">
+ <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_celebrity-page.jpg" width="1000" />
+ IMDb's Celebrity Page detail.</p>
+ <br></br>
+
+ To reduce clutter but still keep all the information IMDb provides, the Movie and Celebrity Page’s contents were grouped by theme, in tabs, in order to present the information in a more concise, graphical way, that both provides a quick look as well as detailed, in-depth content without cluttering the pages.
+
+ In the Movie Page I deleted the “Known for” section where IMDb displays the films for which the actor is best known for and created a hero with a montage that showcases those films.
+
+ With this project I aimed for an easy to use interactive experience, both for new and registered users, that allows them to hop by and easily grab the information they need, without slowing down the user’s flow.
+
+ Even though IMDb is a content-heavy website, with lots of options, I tried to redesign it in a way so that most could be clear the first time people viewed the website.
+
+ Quality content and displaying it right was key!
 
 ***
 
