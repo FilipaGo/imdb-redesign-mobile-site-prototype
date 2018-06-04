@@ -365,7 +365,7 @@ The “Movies” section displays a slider with a list of all movies available t
 
  To reduce clutter but still keep all the information IMDb provides, the Movie and Celebrity Page’s contents were grouped by theme, in tabs, in order to present the information in a more concise, graphical way, that both provides a quick look as well as detailed, in-depth content without cluttering the pages.
 
- In the Movie Page I deleted the “Known for” section where IMDb displays the films for which the actor is best known for and created a hero with a montage that showcases those films.
+ In the Celebrity Page I deleted the “Known for” section where IMDb displays the films for which the actor is best known for and created a hero with a montage that showcases those films.
 
  With this project I aimed for an easy to use interactive experience, both for new and registered users, that allows them to hop by and easily grab the information they need, without slowing down the user’s flow.
 
