@@ -7,6 +7,8 @@ Homepage Redesign (mobile and desktop).
 </p>
 <br></br>
 
+📖 <i>`Estimated reading time: 14 minutes (2718 words)`</i>
+
 ## Project Summary
 
 Project developed under the Postgraduate Diploma in Digital Experience Design which consisted in redesigning IMDb’s website, for desktop and mobile, in order to enhance the website's usability and navigation capabilities, reinvent the Company’s brand and increase the number of registered users and active participants.
