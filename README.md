@@ -3,10 +3,22 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_redesign.jpg" alt="IMDb's homepage redesign details for mobile and desktop" width="1000" />
 Homepage Redesign (mobile and desktop).
-</p>
 <br></br>
+</p>
 
 📖 <i>`Estimated reading time: 14 minutes (2718 words)`</i>
+
+**Table of Contents**
+
+* [Project Summary](https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype#project-summary)</br>
+* [Project Case Study](https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype#project-case-study)</br>
+  * [Context](https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype#context)</br>
+  * [Problem](https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype#problem)</br>
+  * [Redesign Goals and Scope](https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype#redesign-goals-and-scope)</br>
+  * [Methodology](https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype#methodology)</br>
+    * [Research](https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype#research)</br>
+    * [Interaction Design](https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype#interaction-design)</br>
+    * [User Interface Design](https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype#user-interface-design)</br>
 
 ## Project Summary
 
